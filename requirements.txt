@@ -2,3 +2,4 @@ numpy
 mdutils
 nbformat
 pandas
+seaborn
