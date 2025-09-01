@@ -3,3 +3,4 @@ mdutils
 nbformat
 pandas
 seaborn
+scikit-learn
