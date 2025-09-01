@@ -4,3 +4,4 @@ nbformat
 pandas
 seaborn
 scikit-learn
+stl
